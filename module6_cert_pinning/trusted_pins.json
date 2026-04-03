@@ -1,0 +1,39 @@
+{
+    "github.com": {
+        "domain": "github.com",
+        "subject": "github.com",
+        "issuer": "Sectigo Limited",
+        "sha256_pin": "9716d39441ca651c51be78e969ca385ec213ec17715b8c91f01ee652f90fc62c",
+        "sha1_pin": "ab58ea128ba92ca69a31b36b4e545653eed2a6cf",
+        "expiry_date": "Jun  3 23:59:59 2026 GMT",
+        "days_until_expiry": 87,
+        "pinned_at": "2026-03-08 16:34:35"
+    },
+    "google.com": {
+        "domain": "google.com",
+        "subject": "*.google.com",
+        "issuer": "Google Trust Services",
+        "sha256_pin": "370dfc5c8fa52dfc5569bb5087ecb35f620ee5905d6d23e5272dec1dd21c7af0",
+        "sha1_pin": "f8878b2dbdf42feebbc61582a265bf88ba75eefb",
+        "expiry_date": "Apr 27 08:36:41 2026 GMT",
+        "days_until_expiry": 49,
+        "pinned_at": "2026-03-08 16:34:36"
+    },
+    "facebook.com": {
+        "domain": "facebook.com",
+        "subject": "*.facebook.com",
+        "issuer": "DigiCert Inc",
+        "sha256_pin": "4d377e0e07c5cd3ddcff356bf4a05104fbc15159f7410c42d9dd1e3dab6d98dc",
+        "sha1_pin": "eff796d49a7f3199c05d2f45f8aa9a570f30bf51",
+        "expiry_date": "Mar 16 23:59:59 2026 GMT",
+        "days_until_expiry": 8,
+        "pinned_at": "2026-03-08 16:34:36"
+    },
+    "wikipedia.org": {
+        "sha256_pin": "3461aaf30b87e6ffb74969ae7a96efa4e8e1c6a2a39a213ed3abd5d17de9279f",
+        "issuer": "Let's Encrypt",
+        "expiry": "May  7 21:41:31 2026 GMT",
+        "pinned_at": "2026-03-08 16:37:43",
+        "previous_pins": []
+    }
+}

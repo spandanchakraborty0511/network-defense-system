@@ -1,0 +1,23 @@
+{
+    "timestamp": "20260308_153916",
+    "entries": [
+        {
+            "ip": "192.168.137.1",
+            "interface": "eth0",
+            "mac": "00:50:56:c0:00:08",
+            "status": "STALE"
+        },
+        {
+            "ip": "192.168.137.254",
+            "interface": "eth0",
+            "mac": "00:50:56:fd:d0:c9",
+            "status": "STALE"
+        },
+        {
+            "ip": "192.168.137.2",
+            "interface": "eth0",
+            "mac": "00:50:56:e3:5f:5d",
+            "status": "REACHABLE"
+        }
+    ]
+}

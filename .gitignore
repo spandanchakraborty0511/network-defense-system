@@ -1,0 +1,15 @@
+*.db
+*.pyc
+__pycache__/
+*.log
+*_report_*.txt
+vpn_monitor_log.json
+kill_switch_log.json
+incident_log.json
+blocked_ips.json
+pin_validation_log.json
+private_key.txt
+preshared_key.txt
+*.cap
+captures/
+

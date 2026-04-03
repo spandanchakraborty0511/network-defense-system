@@ -1,0 +1,20 @@
+{
+    "timestamp": "20260308_160327",
+    "entries": {
+        "192.168.137.1": {
+            "mac": "00:50:56:c0:00:08",
+            "interface": "eth0",
+            "status": "PERMANENT"
+        },
+        "192.168.137.254": {
+            "mac": "00:50:56:fd:d0:c9",
+            "interface": "eth0",
+            "status": "PERMANENT"
+        },
+        "192.168.137.2": {
+            "mac": "00:50:56:e3:5f:5d",
+            "interface": "eth0",
+            "status": "PERMANENT"
+        }
+    }
+}

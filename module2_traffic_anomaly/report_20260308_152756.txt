@@ -1,0 +1,4 @@
+Total Alerts: 27
+TTL Anomalies: 7
+Latency Spikes: 0
+Duplicate Packets: 20

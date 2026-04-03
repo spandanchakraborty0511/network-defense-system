@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "2026-03-11 20:21:49",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:21:54",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:21:54",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:21:59",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:04",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:09",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:09",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:14",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:19",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:19",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:24",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:24",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:29",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:34",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:39",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:39",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:44",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:44",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:49",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:54",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:59",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:22:59",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:04",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:04",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:09",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:09",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:14",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:19",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:19",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:24",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:24",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:29",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:29",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:34",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:39",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:39",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:44",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:50",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:54",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:54",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:23:59",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:04",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:04",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:09",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:14",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:19",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:24",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:24",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:29",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:34",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:34",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:39",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:39",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:44",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:49",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:49",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:54",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:54",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:59",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:24:59",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:04",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:09",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:09",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:14",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:19",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:19",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:24",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:29",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:29",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:34",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:34",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:39",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:39",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:44",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:44",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:49",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:49",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:25:54",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:00",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:05",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:10",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:10",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:15",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:20",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:25",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:25",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.50",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:30",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:30",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.1",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:35",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:40",
+    "rule": "DNS_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "DNS_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:45",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.1",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.1"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:50",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:50",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:26:55",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.99",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.99"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:00",
+    "rule": "ICMP_FLOOD",
+    "src_ip": "192.168.137.2",
+    "severity": "MEDIUM",
+    "details": "ICMP_FLOOD detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:05",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:05",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:10",
+    "rule": "ARP_SPOOFING",
+    "src_ip": "192.168.137.2",
+    "severity": "HIGH",
+    "details": "ARP_SPOOFING detected from 192.168.137.2"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:15",
+    "rule": "SSL_STRIP",
+    "src_ip": "192.168.137.50",
+    "severity": "HIGH",
+    "details": "SSL_STRIP detected from 192.168.137.50"
+  },
+  {
+    "timestamp": "2026-03-11 20:27:15",
+    "rule": "PORT_SCAN",
+    "src_ip": "192.168.137.99",
+    "severity": "MEDIUM",
+    "details": "PORT_SCAN detected from 192.168.137.99"
+  }
+]
